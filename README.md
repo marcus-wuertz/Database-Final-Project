@@ -1,0 +1,1 @@
+This was the final project for my Database Management class. We were given a list of required tables and business rules, and tasked with creating a working database with generated data in OracleLiveSQL. We were also required to create working triggers that update with purchases and sales for the company. 
